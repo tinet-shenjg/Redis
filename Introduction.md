@@ -2,7 +2,7 @@ Introduction to Redis
 ## Redis介绍
 Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.   
 ---
-redis是一个开源（BSD licensed 协议）的内存数据结构存储，一般用作数据库、缓存和消息代理。
+redis是一个开源（BSD licensed）的内存数据结构存储，一般用作数据库、缓存和消息代理。
 ---
 It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.   
 ---
